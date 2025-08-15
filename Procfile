@@ -1,2 +1,1 @@
-web: gunicorn
-menu_project.wsgi
+web: gunicorn menu_project.wsgi
